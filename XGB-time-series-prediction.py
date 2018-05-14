@@ -1,7 +1,11 @@
 '''2018-05-03
 George Burry
 
-XGBoost is a powerful and versatile tool, which has enabled many Kaggle competition participants to achieve winning scores. How well does XGBoost perform when used to predict future values of a time-series? This was put to the test by aggregating datasets containing time-series from three Kaggle competitions. Random samples were extracted from each time-series, with lags of t-10 and a target value (forecast horizon) of t+5. Up until now, the results have been interesting and warrant further work.'''
+XGBoost is a powerful and versatile tool, which has enabled many Kaggle competition participants to achieve winning scores. 
+How well does XGBoost perform when used to predict future values of a time-series? This was put to the test by aggregating 
+datasets containing time-series from three Kaggle competitions. Random samples were extracted from each time-series, 
+with lags of t-10 and a target value (forecast horizon) of t+5. Up until now, the results have been interesting and 
+warrant further work.'''
 
 # Standard imports
 import datetime
