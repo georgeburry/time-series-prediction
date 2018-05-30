@@ -1,5 +1,5 @@
 # Time-series prediction investigation
-The aim of this project is to find novel ways to improve the prediction of time-series, several steps ahead, using novel machine learning approaches, in order to better anticipate outliers - for example, an anomaly on a balance sheet.
+The aim of this project is to improve the prediction of time-series, several steps ahead, using novel machine learning approaches, in order to better anticipate outliers - for example, an anomaly on a balance sheet.
 
 ## Installation
 1. Clone or download this repository to your computer.
